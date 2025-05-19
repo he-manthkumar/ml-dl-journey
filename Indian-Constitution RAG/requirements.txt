@@ -1,0 +1,8 @@
+langchain==0.3.25
+openai==1.79.0
+# Pinecone client for vector DB
+pinecone==6.0.2
+streamlit==1.45.0
+python-dotenv==1.1.0
+pandas==2.2.3
+datasets==2.18.0
